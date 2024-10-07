@@ -1,3 +1,6 @@
+/* footer{
+  overflow-y: hidden;
+} */
 .active{
   color: red !important;
 }
@@ -67,14 +70,14 @@ button{
 .pi{
   color: white;
   position: relative;
-  bottom: 4200px;
+  bottom: 450px;
   left:130px;
 
 }
 .from{
   color: white;
   position: relative;
-  bottom: 4200px;
+  bottom: 450px;
   left:130px;
 
 }
@@ -354,90 +357,93 @@ button{
 .ck{
   position: relative;
   left:100px;
-  bottom: 400px;
+  top: 100px;
   color: white;
   font-size: 20px;
 }
 .lo{
   position: relative;
   left:100px;
-  bottom: 350px;
+  top: 150px;
   color: white;
 }
 .el{
   position: relative;
   left:100px;
-  bottom: 350px;
+  top: 150px;
   color: white;
 }
 .btnn{
   position: relative;
   left:35px;
-  bottom: 350px;
+  top: 150px;
 }
 .op{
   position: relative;
   left:550px;
-  bottom: 510px;
+  top: 00px;
   color: white;
 }
 .mof{
   position: relative;
   left:550px;
-  bottom: 510px;
+  top: 00px;
   color: white;
 }
 .am{
   position: relative;
   left:550px;
-  bottom: 520px;
+  top: 00px;
   color: white;
 }
 .t{
   position: relative;
   left:550px;
-  bottom: 520px;
+  top: 00px;
   color: white;
 }
 .so{
   position: relative;
   left:1000px;
-  bottom: 674px;
+  top: -150px;
   color: white;
 }
 .fb{
   width: 15px;
   position: relative;
   left:1000px;
-  bottom: 674px;
+  top: -150px;
 }
 .in{
   width: 18px;
   position: relative;
   left:1010px;
-  bottom: 674px;
+  top: -150px;
 }
 .twit{
   width: 15px;
   position: relative;
   left:1020px;
-  bottom: 674px;
+  top: -150px;
 }
 .you{
   width: 15px;
   position: relative;
   left:1030px;
-  bottom: 674px;
+  top: -150px;
 }
 .dcc1{
   color:#DDDDDD;
   position: relative;
   left:1000px;
-  bottom: 610px;
+  top: -130px;
 }
 .dc2{
   color:#DDDDDD;
   position: relative;
   left:1000px;
-  bottom: 610px;
+  top: -130px;
+}
+footer{
+  background-image: url(/Images/daan.jpg);
 }
